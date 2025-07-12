@@ -2,6 +2,8 @@
 
 A comprehensive React Native mobile application for creating and managing AI-powered reports for airline customer complaints and service issues.
 
+<img width="1197" height="684" alt="image" src="https://github.com/user-attachments/assets/4e089508-9fa8-4fa8-a869-6a0aef847ed4" />
+
 ## Features
 
 ### Dashboard
