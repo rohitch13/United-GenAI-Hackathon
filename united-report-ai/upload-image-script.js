@@ -5,7 +5,7 @@ import path from 'path';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "key",
+    apiKey: "gemini-key",
     authDomain: "adsp-34002-ip07-visionary-ai.firebaseapp.com",
     projectId: "adsp-34002-ip07-visionary-ai",
     storageBucket: "adsp-34002-ip07-visionary-ai.firebasestorage.app",
