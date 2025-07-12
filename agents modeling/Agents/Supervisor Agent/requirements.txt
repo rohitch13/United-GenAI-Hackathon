@@ -1,0 +1,7 @@
+langgraph
+langchain-core
+langchain-community
+requests
+flask
+google-cloud-aiplatform
+google-generativeai

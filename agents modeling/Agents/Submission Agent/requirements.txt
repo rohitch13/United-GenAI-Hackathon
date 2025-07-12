@@ -1,0 +1,22 @@
+# Environment management
+python-dotenv
+
+# Pinecone
+pinecone-client
+langchain-pinecone
+
+# LangChain document loading (community-maintained)
+langchain-community
+
+# Google Gemini Embeddings
+google-genai
+google-generativeai==0.3.2
+
+# Web server
+flask
+
+# LangGraph (for agent orchestration)
+langgraph
+
+# Type support (for static type checking, optional but helps with Annotated, TypedDict, etc.)
+typing-extensions

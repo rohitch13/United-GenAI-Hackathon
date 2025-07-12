@@ -1,0 +1,11 @@
+chat_id,report_id,last_message,last_message_time,message_count,created_at
+chat_1705780800000_abc123,1,"I can see the images you've uploaded. I'm analyzing them to help with your report. Could you describe what these images show?",2024-01-15T10:30:00Z,8,2024-01-15T09:00:00Z
+chat_1705867200000_def456,2,"Thank you for reporting this. I'm analyzing the information you've provided. Is there anything else you'd like to add?",2024-01-14T14:45:00Z,12,2024-01-14T13:00:00Z
+chat_1705953600000_ghi789,3,"I understand your concern. Let me help you document this issue properly. Could you provide more details about when this occurred?",2024-01-13T16:20:00Z,6,2024-01-13T15:00:00Z
+chat_1706040000000_jkl012,4,"I've noted this in your report. Based on the images and information provided, I can help escalate this to the appropriate department.",2024-01-12T11:15:00Z,10,2024-01-12T10:00:00Z
+chat_1706126400000_mno345,5,"This is important information. Let me create a comprehensive report with all the details you've shared.",2024-01-11T13:30:00Z,14,2024-01-11T12:00:00Z
+chat_1706212800000_pqr678,6,"I can see the images you've uploaded. I'm analyzing them to help with your report. Could you describe what these images show?",2024-01-10T09:45:00Z,7,2024-01-10T08:00:00Z
+chat_1706299200000_stu901,7,"Thank you for reporting this. I'm analyzing the information you've provided. Is there anything else you'd like to add?",2024-01-09T17:20:00Z,9,2024-01-09T16:00:00Z
+chat_1706385600000_vwx234,8,"I understand your concern. Let me help you document this issue properly. Could you provide more details about when this occurred?",2024-01-08T12:10:00Z,11,2024-01-08T11:00:00Z
+chat_1706472000000_yz0567,9,"I've noted this in your report. Based on the images and information provided, I can help escalate this to the appropriate department.",2024-01-07T15:35:00Z,13,2024-01-07T14:00:00Z
+chat_1706558400000_abc890,10,"This is important information. Let me create a comprehensive report with all the details you've shared.",2024-01-06T08:55:00Z,5,2024-01-06T07:00:00Z 
